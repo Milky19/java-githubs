@@ -3,7 +3,6 @@ name: Java CI (Plain Java)
 on:
   push:
     branches: [ "main" ]
-
 jobs:
   build:
     runs-on: ubuntu-latest
